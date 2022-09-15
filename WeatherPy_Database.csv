@@ -1,0 +1,18 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Isangel,VU,-19.55,169.2667,72.16,86,36,13.94,scattered clouds
+1,Nikolskoye,RU,59.7035,30.7861,58.87,73,78,8.79,broken clouds
+2,Beringovskiy,RU,63.05,179.3167,43.72,93,100,11.81,light rain
+3,Kaitangata,NZ,-46.2817,169.8464,42.03,81,90,11.65,overcast clouds
+4,Waipawa,NZ,-41.4122,175.5153,38.48,85,1,3.04,clear sky
+5,Butaritari,KI,3.0707,172.7902,81.45,75,77,13.38,broken clouds
+6,Leningradskiy,RU,69.3833,178.4167,35.55,98,100,4.32,overcast clouds
+7,Dunedin,NZ,-45.8742,170.5036,43.81,86,100,14.0,overcast clouds
+8,Asau,RO,46.4333,26.4,74.32,65,99,11.74,overcast clouds
+9,Russell,US,32.3502,-85.1999,78.96,68,0,3.44,clear sky
+10,Hastings,GB,50.8552,0.5729,67.39,62,97,7.96,overcast clouds
+11,Christchurch,NZ,-43.5333,172.6333,44.8,77,5,8.05,clear sky
+12,Ngunguru,NZ,-35.6167,174.5,46.85,81,4,8.1,clear sky
+13,Otane,NZ,-39.8833,176.6333,37.0,93,0,1.07,clear sky
+14,Gisborne,NZ,-38.6533,178.0042,42.21,85,1,4.99,clear sky
+15,Anadyr,RU,64.75,177.4833,41.5,93,75,4.47,light rain
+16,Tolaga Bay,NZ,-38.3667,178.3,43.07,85,0,6.02,clear sky
